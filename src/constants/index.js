@@ -188,7 +188,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: '3D PortFolio Vers. -1',
         description: 'Created a 3D Portfolio in Three.js and React and EmailJs',
-        link: '',
+        link: 'https://shivam-goyal.netlify.app',
     },
     {
         iconUrl: threads,
